@@ -1,0 +1,6 @@
+Git est un outil utile pour suivre les modifications d'un projet.
+Il permet de conserver les différentes versions des fichiers.
+GitHub permet de stocker et partager les projets en ligne.
+Dans ce TP, j'ai appris à créer un dépôt GitHub.
+J'ai appris à cloner un dépôt dans Google Colab.
+J'ai également découvert les commandes commit et push.
