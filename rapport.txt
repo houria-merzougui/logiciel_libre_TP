@@ -4,3 +4,6 @@ GitHub permet de stocker et partager les projets en ligne.
 Dans ce TP, j'ai appris à créer un dépôt GitHub.
 J'ai appris à cloner un dépôt dans Google Colab.
 J'ai également découvert les commandes commit et push.
+
+Projet personnel :
+Je souhaite réaliser un projet sur l'étude de la contamination de l'eau par les métaux lourds comme le plomb et le cadmium. Ce projet permettra d'organiser les résultats des analyses et de suivre les modifications du travail grâce à Git.
